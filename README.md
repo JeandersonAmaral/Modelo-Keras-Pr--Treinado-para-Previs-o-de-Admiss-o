@@ -64,7 +64,7 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
 ```bash
 1. Clone o repositório:
 
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+git clone [https://github.com/JeandersonAmaral/Previsao-de-Admissao-com-Keras](https://github.com/JeandersonAmaral/Previsao-de-Admissao-com-Keras)
 cd NOME_DO_REPOSITORIO
 
 2. Crie e ative um ambiente virtual:
@@ -102,4 +102,5 @@ Feito com ❤️ por <strong>[SEU NOME AQUI]</strong>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_LINKEDIN/">LinkedIn</a>
 
 </p>
+
 
