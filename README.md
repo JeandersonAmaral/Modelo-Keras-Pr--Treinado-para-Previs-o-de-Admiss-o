@@ -9,14 +9,6 @@
   Um script interativo de linha de comando (CLI) que utiliza um modelo de rede neural pré-treinado para prever a probabilidade de admissão de um candidato em uma universidade.
 </p>
 
----
-
-## 演示 (Demonstração)
-
-Veja o sistema em ação no modo de previsão manual. A interface é colorida para facilitar a leitura e o uso.
-
-![Demonstração em GIF do Terminal](https://i.imgur.com/vHq8z7p.gif)
-*(Este é um exemplo de GIF, você pode criar um do seu terminal usando ferramentas como ScreenToGif ou Kap)*
 
 ---
 
@@ -165,4 +157,5 @@ Feito com ❤️ por <strong>[SEU NOME AQUI]</strong>
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/SEU_USUARIO">GitHub</a> •
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_LINKEDIN/">LinkedIn</a>
+
 </p>
