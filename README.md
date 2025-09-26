@@ -91,17 +91,7 @@ python run.py
 
 O menu interativo irá guiá-lo a partir daqui!
 
-📜 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-<p align="center">
-Feito com ❤️ por <strong>[SEU NOME AQUI]</strong>
-</p>
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/SEU_USUARIO">GitHub</a> •
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_LINKEDIN/">LinkedIn</a>
-
-</p>
 
 
 
